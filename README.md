@@ -49,18 +49,6 @@ ReqRes API Test Plan
 
 ---
 
-## Project Folder Layout
-
-```
-ReqResAPI-Performance Test/
-├── csv files - ddt/             # CSV test data files for create/update operations
-├── HTML Report/                 # Auto-generated visual performance report
-├── results/                     # Contains output from all JMeter listeners
-├── Screenshots/                # Manual screenshots taken of test execution and results
-└── ReqResAPI_PerformanceTest.jmx  # The main JMeter test plan file
-```
-
----
 
 ## How to Run
 
@@ -76,12 +64,17 @@ ReqResAPI-Performance Test/
 4. **Run the Test Plan**  
    Click the **Start** button in JMeter.
 
-5. **View Reports**
-   - Open `HTML Report/` for a detailed graphical report.
-   - Check `results/` for raw listener outputs.
-   - See `Screenshots/` for manually captured test results.
+---
+
+## View Reports
+- Open HTML Report/ for a detailed graphical report.
+- Check results/ for raw listener outputs.
+- See Screenshots/ for manually captured test results.
 
 ---
 
 ## Notes
 - Excessive or rapid API requests might trigger temporary blocks because of rate limits
+
+
+
