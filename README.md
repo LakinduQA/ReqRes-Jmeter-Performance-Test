@@ -1,4 +1,4 @@
-# ReqRes.com JMeter Test Suite
+# ReqRes API Performance Test Suite using JMeter
 
 This project is a **performance and functional API test suite** for [https://reqres.in/](https://reqres.in/), built using **Apache JMeter**. It simulates realistic user scenarios such as registration, login, data retrieval, creation, update, and deletion, while generating detailed performance reports.
 
@@ -15,7 +15,7 @@ This project is a **performance and functional API test suite** for [https://req
 
 ---
 
-## JMeter Test Components
+## Project Structure
 
 ```
 ReqRes API Test Plan
