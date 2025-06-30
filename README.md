@@ -10,6 +10,7 @@ This project is a **performance and functional API test suite** for [https://req
 - **Data-Driven Testing**: Uses CSV files for testing dynamic input like user creation and update.
 - **Assertions**: Verifies both status codes and response content.
 - **Simulated User Behavior**: Timers introduce delays to mimic real-world user interaction.
+- **JSON Extractor**: capture tokens and user IDs for chaining requests.
 - **Comprehensive Reporting**: Includes tree, table, summary, aggregate, and assertion reports.
 - **Centralized Config**: Global variables and request defaults are separated for easy editing.
 
