@@ -2,7 +2,15 @@
 
 This project is a **performance and functional API test suite** for [https://reqres.in/](https://reqres.in/), built using **Apache JMeter**. It simulates realistic user scenarios such as registration, login, data retrieval, creation, update, and deletion, while generating detailed performance reports.
 
----
+<p align="left">
+  <img src="https://img.shields.io/badge/Apache%20JMeter-5.6+-D22128?logo=apache&logoColor=white" alt="Apache JMeter">
+  <img src="https://img.shields.io/badge/Java-17+-007396?logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/API-ReqRes-FF6C37?logo=postman&logoColor=white" alt="ReqRes API">
+  <img src="https://img.shields.io/badge/Test%20Type-Performance-brightgreen" alt="Performance Testing">
+  <img src="https://img.shields.io/badge/Reports-HTML-E34F26?logo=html5&logoColor=white" alt="HTML Reports">
+  <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT">
+</p>
+
 
 ## Features
 
